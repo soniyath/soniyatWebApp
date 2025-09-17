@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def home():
-    return "Hello from Azure App Service (Python)!"
+    return "Hello from Yatharth Soni!"
 
 # For local testing only:
 if __name__ == "__main__":
