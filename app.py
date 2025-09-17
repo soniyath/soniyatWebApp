@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.get("/")
 def home():
-    return "Hello from Yatharth Soni!"
+    return "Hello from Yatharth Soni - Sheridan!"
 
 # For local testing only:
 if __name__ == "__main__":
